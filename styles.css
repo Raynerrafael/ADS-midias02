@@ -227,13 +227,13 @@ header {
 .video-container {
     position: relative;
     width: 100%;
-    max-width: 900px;
+    max-width: 300px;
     margin: 3rem auto 0;
     border-radius: 10px;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
     overflow: hidden;
     background-color: var(--primary-black);
-    aspect-ratio: 16 / 9;
+    aspect-ratio: 9 / 16;
     display: flex;
     align-items: center;
     justify-content: center;
