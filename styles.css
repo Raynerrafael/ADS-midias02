@@ -636,7 +636,9 @@ header {
     }
 
     .video-container {
-        margin: 1.5rem auto 0;
+       width: 100%;
+       max-width: 300px;
+       object-fit: cover;
         aspect-ratio: 9 / 16;
     }
 }
